@@ -1,7 +1,7 @@
 git config --global user.name "username"
 git config --global user.email "email"
 
-
+ 
 git init 
 git add .
 git remote add origin "url"
@@ -14,4 +14,3 @@ second commit
 git add .
 git commit -m "msg"
 git push
-gjp-jsru-tqi
